@@ -3,28 +3,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575576556.000100",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 10.39
         },
         "datetime": {
           "timestampValue": "2019-12-05T20:09:16Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575585515.000100",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 15.52
         },
         "datetime": {
           "timestampValue": "2019-12-05T22:38:35Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -45,42 +45,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575636150.000400",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T12:42:30Z"
-        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 8.6
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T12:42:30Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575637791.000700",
       "fields": {
+        "amount": {
+          "doubleValue": 2.5
+        },
         "datetime": {
           "timestampValue": "2019-12-06T13:09:51Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
-        },
-        "amount": {
-          "doubleValue": 2.5
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575637930.000900",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T13:12:10Z"
-        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 17.45
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T13:12:10Z"
         }
       }
     },
@@ -101,14 +101,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575659727.006000",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-06T19:15:27Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
@@ -143,14 +143,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575659866.006300",
       "fields": {
-        "amount": {
-          "doubleValue": 10.95
-        },
         "datetime": {
           "timestampValue": "2019-12-06T19:17:46Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.95
         }
       }
     },
@@ -171,42 +171,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575659930.006500",
       "fields": {
+        "amount": {
+          "doubleValue": 5.85
+        },
         "datetime": {
           "timestampValue": "2019-12-06T19:18:50Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575659965.006600",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 4.45
         },
         "datetime": {
           "timestampValue": "2019-12-06T19:19:25Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575661742.000100",
       "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
         "datetime": {
           "timestampValue": "2019-12-06T19:49:02Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.05
         }
       }
     },
@@ -227,42 +227,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575662044.000300",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 10.95
         },
         "datetime": {
           "timestampValue": "2019-12-06T19:54:04Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575662390.000400",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 9.35
         },
         "datetime": {
           "timestampValue": "2019-12-06T19:59:50Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575662419.000500",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T20:00:19Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T20:00:19Z"
         }
       }
     },
@@ -297,28 +297,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575663837.000300",
       "fields": {
+        "amount": {
+          "doubleValue": 5.85
+        },
         "datetime": {
           "timestampValue": "2019-12-06T20:23:57Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575663867.000400",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T20:24:27Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 10.1
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T20:24:27Z"
         }
       }
     },
@@ -367,14 +367,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575665942.000300",
       "fields": {
+        "amount": {
+          "doubleValue": 5.85
+        },
         "datetime": {
           "timestampValue": "2019-12-06T20:59:02Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.85
         }
       }
     },
@@ -409,42 +409,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575666947.000200",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 5.85
         },
         "datetime": {
           "timestampValue": "2019-12-06T21:15:47Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575667400.000100",
       "fields": {
+        "amount": {
+          "doubleValue": 15.95
+        },
         "datetime": {
           "timestampValue": "2019-12-06T21:23:20Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 15.95
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575668327.000200",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T21:38:47Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 4.45
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T21:38:47Z"
         }
       }
     },
@@ -465,14 +465,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575669293.000400",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-06T21:54:53Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.1
-        },
-        "datetime": {
-          "timestampValue": "2019-12-06T21:54:53Z"
         }
       }
     },
@@ -521,28 +521,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575671771.000800",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T22:36:11Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T22:36:11Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575671796.000900",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T22:36:36Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T22:36:36Z"
         }
       }
     },
@@ -605,70 +605,70 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575674997.000200",
       "fields": {
+        "amount": {
+          "doubleValue": 18.6
+        },
         "datetime": {
           "timestampValue": "2019-12-06T23:29:57Z"
         },
         "location": {
           "stringValue": "Willow Walk"
-        },
-        "amount": {
-          "doubleValue": 18.6
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575675231.000300",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-06T23:33:51Z"
-        },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
+        },
+        "datetime": {
+          "timestampValue": "2019-12-06T23:33:51Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575747728.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 5.75
-        },
         "datetime": {
           "timestampValue": "2019-12-07T19:42:08Z"
         },
         "location": {
           "stringValue": "Old Thameside Inn"
+        },
+        "amount": {
+          "doubleValue": 5.75
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575914286.002000",
       "fields": {
-        "location": {
-          "stringValue": "Barley Mow"
-        },
         "amount": {
           "doubleValue": 5.6
         },
         "datetime": {
           "timestampValue": "2019-12-09T17:58:06Z"
+        },
+        "location": {
+          "stringValue": "Barley Mow"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575918782.002400",
       "fields": {
-        "amount": {
-          "doubleValue": 8
-        },
         "datetime": {
           "timestampValue": "2019-12-09T19:13:02Z"
         },
         "location": {
           "stringValue": "Barley Mow"
+        },
+        "amount": {
+          "doubleValue": 8
         }
       }
     },
@@ -689,56 +689,56 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575921989.002600",
       "fields": {
-        "location": {
-          "stringValue": "Barley Mow"
-        },
         "amount": {
           "doubleValue": 10.6
         },
         "datetime": {
           "timestampValue": "2019-12-09T20:06:29Z"
+        },
+        "location": {
+          "stringValue": "Barley Mow"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575923896.002800",
       "fields": {
+        "location": {
+          "stringValue": "Barley Mow"
+        },
         "amount": {
           "doubleValue": 4.6
         },
         "datetime": {
           "timestampValue": "2019-12-09T20:38:16Z"
-        },
-        "location": {
-          "stringValue": "Barley Mow"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575925033.002900",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-09T20:57:13Z"
-        },
         "location": {
           "stringValue": "Barley Mow"
         },
         "amount": {
           "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2019-12-09T20:57:13Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575928442.003600",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-09T21:54:02Z"
-        },
         "location": {
           "stringValue": "Barley Mow"
         },
         "amount": {
           "doubleValue": 5.6
+        },
+        "datetime": {
+          "timestampValue": "2019-12-09T21:54:02Z"
         }
       }
     },
@@ -759,28 +759,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575931465.003800",
       "fields": {
-        "location": {
-          "stringValue": "Barley Mow"
-        },
         "amount": {
           "doubleValue": 11.5
         },
         "datetime": {
           "timestampValue": "2019-12-09T22:44:25Z"
+        },
+        "location": {
+          "stringValue": "Barley Mow"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575933368.003900",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-09T23:16:08Z"
+        },
         "location": {
           "stringValue": "Barley Mow"
         },
         "amount": {
           "doubleValue": 10.3
-        },
-        "datetime": {
-          "timestampValue": "2019-12-09T23:16:08Z"
         }
       }
     },
@@ -801,42 +801,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575934324.004100",
       "fields": {
+        "location": {
+          "stringValue": "Barley Mow"
+        },
         "amount": {
           "doubleValue": 9
         },
         "datetime": {
           "timestampValue": "2019-12-09T23:32:04Z"
-        },
-        "location": {
-          "stringValue": "Barley Mow"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576181048.000100",
       "fields": {
+        "amount": {
+          "doubleValue": 9.45
+        },
         "datetime": {
           "timestampValue": "2019-12-12T20:04:08Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 9.45
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576241018.000100",
       "fields": {
+        "location": {
+          "stringValue": "The Jugged Hare"
+        },
         "amount": {
           "doubleValue": 5.95
         },
         "datetime": {
           "timestampValue": "2019-12-13T12:43:38Z"
-        },
-        "location": {
-          "stringValue": "The Jugged Hare"
         }
       }
     },
@@ -857,28 +857,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576262977.033400",
       "fields": {
+        "amount": {
+          "doubleValue": 4.45
+        },
         "datetime": {
           "timestampValue": "2019-12-13T18:49:37Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 4.45
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576263083.033500",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 5.05
         },
         "datetime": {
           "timestampValue": "2019-12-13T18:51:23Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -913,14 +913,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576263130.033800",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 10.1
         },
         "datetime": {
           "timestampValue": "2019-12-13T18:52:10Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -941,14 +941,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576263559.034000",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-13T18:59:19Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
-        },
-        "datetime": {
-          "timestampValue": "2019-12-13T18:59:19Z"
         }
       }
     },
@@ -969,14 +969,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576265245.000200",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-13T19:27:25Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.1
+        },
+        "datetime": {
+          "timestampValue": "2019-12-13T19:27:25Z"
         }
       }
     },
@@ -1011,28 +1011,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576266566.000300",
       "fields": {
-        "amount": {
-          "doubleValue": 4.5
-        },
         "datetime": {
           "timestampValue": "2019-12-13T19:49:26Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.5
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576267391.000100",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-13T20:03:11Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 10.75
+        },
+        "datetime": {
+          "timestampValue": "2019-12-13T20:03:11Z"
         }
       }
     },
@@ -1053,42 +1053,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576269396.000300",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-13T20:36:36Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576269702.000400",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 5.85
         },
         "datetime": {
           "timestampValue": "2019-12-13T20:41:42Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576269774.000500",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 9
         },
         "datetime": {
           "timestampValue": "2019-12-13T20:42:54Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -1109,28 +1109,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576270111.000700",
       "fields": {
-        "amount": {
-          "doubleValue": 5.1
-        },
         "datetime": {
           "timestampValue": "2019-12-13T20:48:31Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.1
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576270249.000800",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-13T20:50:49Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 10.9
-        },
-        "datetime": {
-          "timestampValue": "2019-12-13T20:50:49Z"
         }
       }
     },
@@ -1151,14 +1151,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576272848.001000",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-13T21:34:08Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
-        },
-        "datetime": {
-          "timestampValue": "2019-12-13T21:34:08Z"
         }
       }
     },
@@ -1179,14 +1179,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576273648.001200",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-13T21:47:28Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
@@ -1207,14 +1207,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576274421.001400",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-13T22:00:21Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
+        },
+        "datetime": {
+          "timestampValue": "2019-12-13T22:00:21Z"
         }
       }
     },
@@ -1235,14 +1235,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576274805.001600",
       "fields": {
+        "amount": {
+          "doubleValue": 5.1
+        },
         "datetime": {
           "timestampValue": "2019-12-13T22:06:45Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.1
         }
       }
     },
@@ -1263,28 +1263,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576279113.002900",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-13T23:18:33Z"
-        },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
           "doubleValue": 4.65
+        },
+        "datetime": {
+          "timestampValue": "2019-12-13T23:18:33Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576279167.003000",
       "fields": {
-        "amount": {
-          "doubleValue": 6.2
-        },
         "datetime": {
           "timestampValue": "2019-12-13T23:19:27Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 6.2
         }
       }
     },
@@ -1319,84 +1319,84 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576280839.000100",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-13T23:47:19Z"
-        },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
+        },
+        "datetime": {
+          "timestampValue": "2019-12-13T23:47:19Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576281169.000200",
       "fields": {
+        "location": {
+          "stringValue": "Willow Walk"
+        },
         "amount": {
           "doubleValue": 6.2
         },
         "datetime": {
           "timestampValue": "2019-12-13T23:52:49Z"
-        },
-        "location": {
-          "stringValue": "Willow Walk"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576777165.013400",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-19T17:39:25Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.05
-        },
-        "datetime": {
-          "timestampValue": "2019-12-19T17:39:25Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576777285.013500",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-19T17:41:25Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576777324.013600",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-19T17:42:04Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 4.45
+        },
+        "datetime": {
+          "timestampValue": "2019-12-19T17:42:04Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576778543.013700",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 4.4
         },
         "datetime": {
           "timestampValue": "2019-12-19T18:02:23Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -1417,14 +1417,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576780710.013900",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-19T18:38:30Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 0.35
-        },
-        "datetime": {
-          "timestampValue": "2019-12-19T18:38:30Z"
         }
       }
     },
@@ -1543,56 +1543,56 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576785433.016100",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-19T19:57:13Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 4.9
-        },
-        "datetime": {
-          "timestampValue": "2019-12-19T19:57:13Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576786824.000100",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-19T20:20:24Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2019-12-19T20:20:24Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576787334.000100",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-19T20:28:54Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
+        },
+        "datetime": {
+          "timestampValue": "2019-12-19T20:28:54Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576787375.000200",
       "fields": {
+        "amount": {
+          "doubleValue": 5.1
+        },
         "datetime": {
           "timestampValue": "2019-12-19T20:29:35Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.1
         }
       }
     },
@@ -1613,28 +1613,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576787852.000100",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 5.85
         },
         "datetime": {
           "timestampValue": "2019-12-19T20:37:32Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576790277.000100",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 28.5
         },
         "datetime": {
           "timestampValue": "2019-12-19T21:17:57Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -1655,98 +1655,98 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576794796.000300",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-19T22:33:16Z"
+        },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
           "doubleValue": 4.89
-        },
-        "datetime": {
-          "timestampValue": "2019-12-19T22:33:16Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576794874.000400",
       "fields": {
-        "location": {
-          "stringValue": "Willow Walk"
-        },
         "amount": {
           "doubleValue": 6.6
         },
         "datetime": {
           "timestampValue": "2019-12-19T22:34:34Z"
+        },
+        "location": {
+          "stringValue": "Willow Walk"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576795660.000500",
       "fields": {
-        "amount": {
-          "doubleValue": 6.2
-        },
         "datetime": {
           "timestampValue": "2019-12-19T22:47:40Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 6.2
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576795712.000600",
       "fields": {
-        "datetime": {
-          "timestampValue": "2019-12-19T22:48:32Z"
-        },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
+        },
+        "datetime": {
+          "timestampValue": "2019-12-19T22:48:32Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576796076.000700",
       "fields": {
+        "amount": {
+          "doubleValue": 6.2
+        },
         "datetime": {
           "timestampValue": "2019-12-19T22:54:36Z"
         },
         "location": {
           "stringValue": "Willow Walk"
-        },
-        "amount": {
-          "doubleValue": 6.2
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576798747.001000",
       "fields": {
+        "location": {
+          "stringValue": "Willow Walk"
+        },
         "amount": {
           "doubleValue": 18.6
         },
         "datetime": {
           "timestampValue": "2019-12-19T23:39:07Z"
-        },
-        "location": {
-          "stringValue": "Willow Walk"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576863599.007700",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 5.05
         },
         "datetime": {
           "timestampValue": "2019-12-20T17:39:59Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -1767,42 +1767,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576863674.007900",
       "fields": {
-        "amount": {
-          "doubleValue": 3
-        },
         "datetime": {
           "timestampValue": "2019-12-20T17:41:14Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 3
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576865942.008800",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-20T18:19:02Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.05
-        },
-        "datetime": {
-          "timestampValue": "2019-12-20T18:19:02Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576867198.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 10.8
-        },
         "datetime": {
           "timestampValue": "2019-12-20T18:39:58Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.8
         }
       }
     },
@@ -1823,14 +1823,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576869395.000300",
       "fields": {
-        "amount": {
-          "doubleValue": 10.95
-        },
         "datetime": {
           "timestampValue": "2019-12-20T19:16:35Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.95
         }
       }
     },
@@ -1851,84 +1851,84 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576872072.000100",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 13.9
         },
         "datetime": {
           "timestampValue": "2019-12-20T20:01:12Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576872373.000200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-20T20:06:13Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 6.1
-        },
-        "datetime": {
-          "timestampValue": "2019-12-20T20:06:13Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576873440.000300",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-20T20:24:00Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576874936.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 5.05
-        },
         "datetime": {
           "timestampValue": "2019-12-20T20:48:56Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576875028.000300",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-20T20:50:28Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 10.95
-        },
-        "datetime": {
-          "timestampValue": "2019-12-20T20:50:28Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576875103.000400",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-20T20:51:43Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
-        },
-        "datetime": {
-          "timestampValue": "2019-12-20T20:51:43Z"
         }
       }
     },
@@ -1977,14 +1977,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576880322.000200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2019-12-20T22:18:42Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.85
-        },
-        "datetime": {
-          "timestampValue": "2019-12-20T22:18:42Z"
         }
       }
     },
@@ -2005,14 +2005,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576882601.000200",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2019-12-20T22:56:41Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
@@ -2033,14 +2033,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578082866.000100",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-03T20:21:06Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 21.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-03T20:21:06Z"
         }
       }
     },
@@ -2061,98 +2061,98 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578085185.000100",
       "fields": {
+        "amount": {
+          "doubleValue": 22.65
+        },
         "datetime": {
           "timestampValue": "2020-01-03T20:59:45Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 22.65
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578088024.000200",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 38.45
         },
         "datetime": {
           "timestampValue": "2020-01-03T21:47:04Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578090200.000500",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-03T22:23:20Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 10.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-03T22:23:20Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578335098.009200",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 5.85
         },
         "datetime": {
           "timestampValue": "2020-01-06T18:24:58Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578335154.009400",
       "fields": {
-        "amount": {
-          "doubleValue": 5.15
-        },
         "datetime": {
           "timestampValue": "2020-01-06T18:25:54Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.15
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578335203.009700",
       "fields": {
-        "amount": {
-          "doubleValue": 5.85
-        },
         "datetime": {
           "timestampValue": "2020-01-06T18:26:43Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.85
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578335222.009800",
       "fields": {
-        "amount": {
-          "doubleValue": 5.1
-        },
         "datetime": {
           "timestampValue": "2020-01-06T18:27:02Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.1
         }
       }
     },
@@ -2173,56 +2173,56 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1578340583.000900",
       "fields": {
-        "amount": {
-          "doubleValue": 16.8
-        },
         "datetime": {
           "timestampValue": "2020-01-06T19:56:23Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 16.8
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579196770.015100",
       "fields": {
-        "amount": {
-          "doubleValue": 16.65
-        },
         "datetime": {
           "timestampValue": "2020-01-16T17:46:10Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 16.65
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579196810.015200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T17:46:50Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 4.4
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T17:46:50Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579197222.016300",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 5.55
         },
         "datetime": {
           "timestampValue": "2020-01-16T17:53:42Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -2243,28 +2243,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579197745.016500",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-16T18:02:25Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5
+        },
+        "datetime": {
+          "timestampValue": "2020-01-16T18:02:25Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579198892.016600",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 4.9
         },
         "datetime": {
           "timestampValue": "2020-01-16T18:21:32Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -2299,42 +2299,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579199270.016900",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T18:27:50Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T18:27:50Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579199812.017000",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-16T18:36:52Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 6.75
+        },
+        "datetime": {
+          "timestampValue": "2020-01-16T18:36:52Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579201014.000200",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-16T18:56:54Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-01-16T18:56:54Z"
         }
       }
     },
@@ -2355,28 +2355,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579202337.000300",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T19:18:57Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T19:18:57Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579202413.000400",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 5.15
         },
         "datetime": {
           "timestampValue": "2020-01-16T19:20:13Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -2397,28 +2397,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579203281.000600",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-16T19:34:41Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 9.99
+        },
+        "datetime": {
+          "timestampValue": "2020-01-16T19:34:41Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579203627.000700",
       "fields": {
+        "amount": {
+          "doubleValue": 15.39
+        },
         "datetime": {
           "timestampValue": "2020-01-16T19:40:27Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 15.39
         }
       }
     },
@@ -2439,168 +2439,168 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579205904.000300",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T20:18:24Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T20:18:24Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579205999.000400",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 37.15
         },
         "datetime": {
           "timestampValue": "2020-01-16T20:19:59Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579206120.001400",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-16T20:22:00Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-01-16T20:22:00Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579210048.004000",
       "fields": {
-        "amount": {
-          "doubleValue": 5.55
-        },
         "datetime": {
           "timestampValue": "2020-01-16T21:27:28Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579210132.004100",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T21:28:52Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 17.1
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T21:28:52Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579210849.004200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-16T21:40:49Z"
+        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
-        },
-        "datetime": {
-          "timestampValue": "2020-01-16T21:40:49Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579213859.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 20.1
-        },
         "datetime": {
           "timestampValue": "2020-01-16T22:30:59Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 20.1
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579216234.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 17.97
-        },
         "datetime": {
           "timestampValue": "2020-01-16T23:10:34Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 17.97
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579216311.000200",
       "fields": {
-        "amount": {
-          "doubleValue": 4.89
-        },
         "datetime": {
           "timestampValue": "2020-01-16T23:11:51Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 4.89
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579282628.021000",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T17:37:08Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 18.65
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T17:37:08Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579283010.021100",
       "fields": {
+        "location": {
+          "stringValue": "Cask Pub &amp; Kitchen"
+        },
         "amount": {
           "doubleValue": 11.15
         },
         "datetime": {
           "timestampValue": "2020-01-17T17:43:30Z"
-        },
-        "location": {
-          "stringValue": "Cask Pub &amp; Kitchen"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579285506.000100",
       "fields": {
-        "location": {
-          "stringValue": "Cask Pub &amp; Kitchen"
-        },
         "amount": {
           "doubleValue": 11.25
         },
         "datetime": {
           "timestampValue": "2020-01-17T18:25:06Z"
+        },
+        "location": {
+          "stringValue": "Cask Pub &amp; Kitchen"
         }
       }
     },
@@ -2621,14 +2621,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579285693.000300",
       "fields": {
-        "amount": {
-          "doubleValue": 5.95
-        },
         "datetime": {
           "timestampValue": "2020-01-17T18:28:13Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
+        },
+        "amount": {
+          "doubleValue": 5.95
         }
       }
     },
@@ -2649,56 +2649,56 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579287853.000100",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T19:04:13Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 5.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T19:04:13Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579287961.000200",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-17T19:06:01Z"
-        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 17
+        },
+        "datetime": {
+          "timestampValue": "2020-01-17T19:06:01Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579288087.000300",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T19:08:07Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 5.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T19:08:07Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579289522.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 7.25
-        },
         "datetime": {
           "timestampValue": "2020-01-17T19:32:02Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
+        },
+        "amount": {
+          "doubleValue": 7.25
         }
       }
     },
@@ -2719,42 +2719,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579290380.000100",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T19:46:20Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 11.25
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T19:46:20Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579290449.000200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T19:47:29Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 5.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T19:47:29Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579292978.000100",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-17T20:29:38Z"
-        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 15.5
+        },
+        "datetime": {
+          "timestampValue": "2020-01-17T20:29:38Z"
         }
       }
     },
@@ -2775,98 +2775,98 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579294332.000200",
       "fields": {
-        "amount": {
-          "doubleValue": 10.95
-        },
         "datetime": {
           "timestampValue": "2020-01-17T20:52:12Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
+        },
+        "amount": {
+          "doubleValue": 10.95
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579295511.000300",
       "fields": {
+        "amount": {
+          "doubleValue": 5.1
+        },
         "datetime": {
           "timestampValue": "2020-01-17T21:11:51Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
-        },
-        "amount": {
-          "doubleValue": 5.1
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579296515.000400",
       "fields": {
+        "amount": {
+          "doubleValue": 5.3
+        },
         "datetime": {
           "timestampValue": "2020-01-17T21:28:35Z"
         },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
-        },
-        "amount": {
-          "doubleValue": 5.3
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579297479.000500",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T21:44:39Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 5.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T21:44:39Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579297663.000600",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T21:47:43Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 5.95
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T21:47:43Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579300768.000100",
       "fields": {
-        "location": {
-          "stringValue": "Cask Pub &amp; Kitchen"
-        },
         "amount": {
           "doubleValue": 10.6
         },
         "datetime": {
           "timestampValue": "2020-01-17T22:39:28Z"
+        },
+        "location": {
+          "stringValue": "Cask Pub &amp; Kitchen"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579301087.000200",
       "fields": {
+        "datetime": {
+          "timestampValue": "2020-01-17T22:44:47Z"
+        },
         "location": {
           "stringValue": "Cask Pub &amp; Kitchen"
         },
         "amount": {
           "doubleValue": 6.5
-        },
-        "datetime": {
-          "timestampValue": "2020-01-17T22:44:47Z"
         }
       }
     },
@@ -2887,42 +2887,42 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579304545.000200",
       "fields": {
+        "amount": {
+          "doubleValue": 9.29
+        },
         "datetime": {
           "timestampValue": "2020-01-17T23:42:25Z"
         },
         "location": {
           "stringValue": "Willow Walk"
-        },
-        "amount": {
-          "doubleValue": 9.29
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579304963.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 4.89
-        },
         "datetime": {
           "timestampValue": "2020-01-17T23:49:23Z"
         },
         "location": {
           "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 4.89
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579894333.000100",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 2.5
         },
         "datetime": {
           "timestampValue": "2020-01-24T19:32:13Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
@@ -2943,28 +2943,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579894436.000300",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-24T19:33:56Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-01-24T19:33:56Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579894649.000400",
       "fields": {
+        "amount": {
+          "doubleValue": 11.4
+        },
         "datetime": {
           "timestampValue": "2020-01-24T19:37:29Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 11.4
         }
       }
     },
@@ -2985,28 +2985,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579896710.000600",
       "fields": {
-        "amount": {
-          "doubleValue": 5.55
-        },
         "datetime": {
           "timestampValue": "2020-01-24T20:11:50Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579896768.000700",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-24T20:12:48Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 11.1
+        },
+        "datetime": {
+          "timestampValue": "2020-01-24T20:12:48Z"
         }
       }
     },
@@ -3041,84 +3041,84 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579899157.000100",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 4.99
         },
         "datetime": {
           "timestampValue": "2020-01-24T20:52:37Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579899669.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 4.55
-        },
         "datetime": {
           "timestampValue": "2020-01-24T21:01:09Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579901504.000100",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 5.55
         },
         "datetime": {
           "timestampValue": "2020-01-24T21:31:44Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579901729.000200",
       "fields": {
+        "amount": {
+          "doubleValue": 5.55
+        },
         "datetime": {
           "timestampValue": "2020-01-24T21:35:29Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579902139.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 4.55
-        },
         "datetime": {
           "timestampValue": "2020-01-24T21:42:19Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579904820.000100",
       "fields": {
-        "amount": {
-          "doubleValue": 14.08
-        },
         "datetime": {
           "timestampValue": "2020-01-24T22:27:00Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 14.08
         }
       }
     },
@@ -3153,98 +3153,98 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579994880.001700",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-25T23:28:00Z"
-        },
         "location": {
           "stringValue": "The World's End"
         },
         "amount": {
           "doubleValue": 18.6
+        },
+        "datetime": {
+          "timestampValue": "2020-01-25T23:28:00Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580405485.008600",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-30T17:31:25Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-01-30T17:31:25Z"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580405507.008700",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 11.1
         },
         "datetime": {
           "timestampValue": "2020-01-30T17:31:47Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580407344.008800",
       "fields": {
-        "amount": {
-          "doubleValue": 5.05
-        },
         "datetime": {
           "timestampValue": "2020-01-30T18:02:24Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580407361.008900",
       "fields": {
+        "amount": {
+          "doubleValue": 5.55
+        },
         "datetime": {
           "timestampValue": "2020-01-30T18:02:41Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.55
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580407785.009000",
       "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
         "amount": {
           "doubleValue": 11.1
         },
         "datetime": {
           "timestampValue": "2020-01-30T18:09:45Z"
-        },
-        "location": {
-          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580409005.009100",
       "fields": {
-        "amount": {
-          "doubleValue": 5.55
-        },
         "datetime": {
           "timestampValue": "2020-01-30T18:30:05Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
         }
       }
     },
@@ -3279,14 +3279,14 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580409705.009400",
       "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
         "datetime": {
           "timestampValue": "2020-01-30T18:41:45Z"
         },
         "location": {
           "stringValue": "St Georges Tavern"
-        },
-        "amount": {
-          "doubleValue": 5.05
         }
       }
     },
@@ -3307,28 +3307,28 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580411138.009600",
       "fields": {
-        "location": {
-          "stringValue": "St Georges Tavern"
-        },
         "amount": {
           "doubleValue": 4.55
         },
         "datetime": {
           "timestampValue": "2020-01-30T19:05:38Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580411543.009700",
       "fields": {
-        "datetime": {
-          "timestampValue": "2020-01-30T19:12:23Z"
-        },
         "location": {
           "stringValue": "St Georges Tavern"
         },
         "amount": {
           "doubleValue": 4.99
+        },
+        "datetime": {
+          "timestampValue": "2020-01-30T19:12:23Z"
         }
       }
     },
@@ -3363,25 +3363,39 @@
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580494606.005500",
       "fields": {
-        "location": {
-          "stringValue": "The Jugged Hare"
-        },
         "amount": {
           "doubleValue": 10.2
         },
         "datetime": {
           "timestampValue": "2020-01-31T18:16:46Z"
+        },
+        "location": {
+          "stringValue": "The Jugged Hare"
         }
       }
     },
     {
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580510845.005600",
       "fields": {
-        "amount": {
-          "doubleValue": 4.6
-        },
         "datetime": {
           "timestampValue": "2020-01-31T22:47:25Z"
+        },
+        "location": {
+          "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 4.6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580511637.005700",
+      "fields": {
+        "amount": {
+          "doubleValue": 6.2
+        },
+        "datetime": {
+          "timestampValue": "2020-01-31T23:00:37Z"
         },
         "location": {
           "stringValue": "Willow Walk"
@@ -3389,16 +3403,450 @@
       }
     },
     {
-      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1580511637.005700",
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581019087.004300",
+      "fields": {
+        "amount": {
+          "doubleValue": 11.1
+        },
+        "datetime": {
+          "timestampValue": "2020-02-06T19:58:07Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581019192.004400",
       "fields": {
         "datetime": {
-          "timestampValue": "2020-01-31T23:00:37Z"
+          "timestampValue": "2020-02-06T19:59:52Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581020129.004500",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.7
+        },
+        "datetime": {
+          "timestampValue": "2020-02-06T20:15:29Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581022016.004600",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-06T20:46:56Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.7
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581022047.004700",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-06T20:47:27Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581022102.004800",
+      "fields": {
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-06T20:48:22Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581025294.004900",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-06T21:41:34Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.7
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581025393.005000",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 9.99
+        },
+        "datetime": {
+          "timestampValue": "2020-02-06T21:43:13Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581025421.005200",
+      "fields": {
+        "amount": {
+          "doubleValue": 9.54
+        },
+        "datetime": {
+          "timestampValue": "2020-02-06T21:43:41Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581099424.017400",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T18:17:04Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 9.54
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581099462.017500",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T18:17:42Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581099756.017600",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.99
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T18:22:36Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581101846.018100",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T18:57:26Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581101933.018200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T18:58:53Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.99
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581102236.018300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T19:03:56Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581102261.018400",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T19:04:21Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581104806.000100",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T19:46:46Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581104932.000200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T19:48:52Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.99
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581105149.000300",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T19:52:29Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581105747.000400",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T20:02:27Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581107775.000100",
+      "fields": {
+        "amount": {
+          "doubleValue": 19.26
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T20:36:15Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581108598.000200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T20:49:58Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581109265.000300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T21:01:05Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 14.26
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581110237.000100",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T21:17:17Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581111979.000200",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T21:46:19Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581112359.000300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T21:52:39Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 9.8
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581112865.000400",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T22:01:05Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581118233.000100",
+      "fields": {
+        "location": {
+          "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 9.24
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T23:30:33Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581118326.000200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T23:32:06Z"
         },
         "location": {
           "stringValue": "Willow Walk"
         },
         "amount": {
-          "doubleValue": 6.2
+          "doubleValue": 9.78
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581118361.000300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-07T23:32:41Z"
+        },
+        "location": {
+          "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 10.85
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581119477.000200",
+      "fields": {
+        "location": {
+          "stringValue": "Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 34
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T23:51:17Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581119607.000300",
+      "fields": {
+        "amount": {
+          "doubleValue": 4.25
+        },
+        "datetime": {
+          "timestampValue": "2020-02-07T23:53:27Z"
+        },
+        "location": {
+          "stringValue": "Willow Walk"
         }
       }
     }
