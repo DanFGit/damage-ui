@@ -20,7 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "yarn build && firebase deploy"
+    "deploy": "yarn build && firebase deploy",
+    "deploy:rules": "firebase deploy --only firestore:rules"
   },
   "browserslist": [
     ">0.2%",
