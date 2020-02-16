@@ -4661,6 +4661,90 @@
           "stringValue": "Willow Walk"
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581783238.000100",
+      "fields": {
+        "location": {
+          "stringValue": "Old Thameside Inn"
+        },
+        "amount": {
+          "doubleValue": 23.5
+        },
+        "datetime": {
+          "timestampValue": "2020-02-15T16:13:58Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581792154.000100",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-15T18:42:34Z"
+        },
+        "location": {
+          "stringValue": "Old Thameside Inn"
+        },
+        "amount": {
+          "doubleValue": 15.5
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581794443.000200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-15T19:20:43Z"
+        },
+        "location": {
+          "stringValue": "Old Thameside Inn"
+        },
+        "amount": {
+          "doubleValue": 23.5
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581811427.000300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-16T00:03:47Z"
+        },
+        "location": {
+          "stringValue": "The World's End"
+        },
+        "amount": {
+          "doubleValue": 6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581813456.000400",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-16T00:37:36Z"
+        },
+        "location": {
+          "stringValue": "The World's End"
+        },
+        "amount": {
+          "doubleValue": 6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581815958.000500",
+      "fields": {
+        "amount": {
+          "doubleValue": 12.4
+        },
+        "datetime": {
+          "timestampValue": "2020-02-16T01:19:18Z"
+        },
+        "location": {
+          "stringValue": "The World's End"
+        }
+      }
     }
   ]
 }
