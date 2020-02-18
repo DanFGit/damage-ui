@@ -5,18 +5,21 @@ import Bar from "./charts/Bar/Bar";
 import Calendar from "./charts/Calendar/Calendar";
 import Pie from "./charts/Pie/Pie";
 import Value from "./charts/Value/Value";
+import Keys from "./charts/Key/Keys";
 import { getTotal, getMax, getMin } from "./helpers/stats";
 
 import "./styles.css";
 
 const App = () => (
   <div className="App">
-    <Value label="The George Pulse" value={`Total Spend: ${getTotal()}`} />
+    <Value value="The George Pulse" />
     <Calendar />
-    <Value label="Biggest Round" value={`${getMax()}`} />
+    <Value label="Total Spend" value={` ${getTotal()}`} />
     <Pie />
-    <Value label="Smallest Round" value={`${getMin()}`} />
+    <Value label="Biggest Round" value={`${getMax()}`} />
     <Bar />
+    <Value label="Smallest Round" value={`${getMin()}`} />
+    <Keys />
   </div>
 );
 

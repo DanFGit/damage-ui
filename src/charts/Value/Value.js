@@ -4,8 +4,8 @@ import "./Value.css";
 
 const Value = ({ label, value }) => (
   <div className="value">
-    <h1>{value}</h1>
     <div>{label}</div>
+    <h1>{value}</h1>
   </div>
 );
 
