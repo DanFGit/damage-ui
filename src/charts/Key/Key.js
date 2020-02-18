@@ -7,12 +7,12 @@ const Key = ({ label, color }) => (
     <div
       style={{
         "background-color": color,
-        width: "2vw",
-        height: "2vh",
-        margin: "1vw"
+        width: "10vw",
+        height: "20px",
+        margin: "10px"
       }}
     />
-    <h5>{label}</h5>
+    <p>{label}</p>
   </div>
 );
 

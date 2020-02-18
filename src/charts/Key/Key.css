@@ -4,4 +4,5 @@
   justify-content: right;
   align-items: center;
   height: 3vh;
+  min-height: 40px;
 }
