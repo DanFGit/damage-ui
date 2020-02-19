@@ -62,13 +62,12 @@ export const getMin = () => {
 /**
  * Returns an array of locations
  */
-export const getLocations = () => {
+export const getPubs = () => {
   const locations = new Set();
 
   data.documents.forEach(doc => {
     locations.add(doc.fields.location.stringValue.replace("&amp;", "&"));
   });
-
   return [...locations];
 };
 

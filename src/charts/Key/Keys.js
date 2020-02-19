@@ -1,18 +1,12 @@
 import React from "react";
 import Key from "./Key";
-import { getColor } from "../../helpers/stats";
-import toPie from "../../helpers/toPie";
+import { getColor, getPubs } from "../../helpers/stats";
 
 const Keys = () => {
   return (
     <div>
-      {toPie().map(pub => (
-        <Key
-          key={pub.id}
-          label={pub.label}
-          color={getColor(pub.id)}
-          value={pub.value}
-        />
+      {getPubs().map((pub, index) => (
+        <Key key={index} label={pub} color={getColor(pub)} value={pub} />
       ))}
     </div>
   );

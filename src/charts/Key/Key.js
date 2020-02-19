@@ -6,7 +6,7 @@ const Key = ({ label, color }) => (
   <div className="key">
     <div
       style={{
-        "background-color": color,
+        backgroundColor: color,
         width: "10vw",
         height: "20px",
         margin: "10px"
