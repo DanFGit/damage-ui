@@ -1,7 +1,7 @@
 import React from "react";
 import { ResponsiveBar } from "@nivo/bar";
 
-import { formatPrice, getLocations, getColor } from "../../helpers/stats";
+import { formatPrice, getPubs, getColor } from "../../helpers/stats";
 import toBar from "../../helpers/toBar";
 
 const Tooltip = ({ value, id, index, ...props }) => (
@@ -18,7 +18,7 @@ const Bar = () => (
   <div className="bar">
     <ResponsiveBar
       data={toBar()}
-      keys={getLocations()}
+      keys={getPubs()}
       indexBy="hour"
       margin={{ top: 20, right: 20, bottom: 50, left: 50 }}
       axisBottom={{
