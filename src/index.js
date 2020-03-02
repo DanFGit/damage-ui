@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 
 import Bar from "./charts/Bar/Bar";
 import Calendar from "./charts/Calendar/Calendar";
+import Change from "./charts/Change/Change";
 import Pie from "./charts/Pie/Pie";
 import Value from "./charts/Value/Value";
 import Keys from "./charts/Key/Keys";
@@ -20,6 +21,7 @@ const App = () => (
     <Bar />
     <Value label="Smallest Round" value={`${getMin()}`} />
     <Keys />
+    <Change />
   </div>
 );
 
