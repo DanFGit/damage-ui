@@ -5207,6 +5207,244 @@
           "stringValue": "St Georges Tavern"
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582825070.000100",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.1
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T17:37:50Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582825468.000200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-27T17:44:28Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 4.54
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582828370.000300",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 8.15
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T18:32:50Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582830690.000400",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T19:11:30Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582832619.000500",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-27T19:43:39Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 13.2
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582834545.000600",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-27T20:15:45Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582838958.000700",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.1
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T21:29:18Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582839061.000800",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-27T21:31:01Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 12
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582839311.000900",
+      "fields": {
+        "amount": {
+          "doubleValue": 11.1
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T21:35:11Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582840043.001000",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-02-27T21:47:23Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582912775.003400",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-28T17:59:35Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582912809.003500",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-02-28T18:00:09Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582916860.004200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-28T19:07:40Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 8.15
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582916996.004300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-02-28T19:09:56Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582997467.000300",
+      "fields": {
+        "location": {
+          "stringValue": "The World's End"
+        },
+        "amount": {
+          "doubleValue": 6
+        },
+        "datetime": {
+          "timestampValue": "2020-02-29T17:31:07Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1583001430.000500",
+      "fields": {
+        "location": {
+          "stringValue": "The World's End"
+        },
+        "amount": {
+          "doubleValue": 12
+        },
+        "datetime": {
+          "timestampValue": "2020-02-29T18:37:10Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1583019858.000800",
+      "fields": {
+        "location": {
+          "stringValue": "The World's End"
+        },
+        "amount": {
+          "doubleValue": 12
+        },
+        "datetime": {
+          "timestampValue": "2020-02-29T23:44:18Z"
+        }
+      }
     }
   ]
 }
