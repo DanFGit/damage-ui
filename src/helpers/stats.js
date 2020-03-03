@@ -1,4 +1,5 @@
 import data from "../data.json";
+import { getWeekStart, getWeekEnd } from "./time.js";
 
 const thousandsSeperator = (number = "0") =>
   number.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
@@ -86,4 +87,23 @@ export const getColor = pub => {
   console.log(`${pub} is missing a color.`);
 
   return "#C6D8FF";
+};
+
+export const getWeekTotal = weeksAgo => {
+  const weekStart = getWeekStart(weeksAgo);
+  const weekEnd = getWeekEnd(weeksAgo);
+
+  const total = data.documents
+    .reduce((acc, doc) => {
+      const purchaseDate = new Date(doc.fields.datetime.timestampValue);
+
+      if (weekStart < purchaseDate && purchaseDate < weekEnd) {
+        return acc + doc.fields.amount.doubleValue;
+      }
+
+      return acc;
+    }, 0)
+    .toFixed(2);
+
+  return Number(total);
 };
