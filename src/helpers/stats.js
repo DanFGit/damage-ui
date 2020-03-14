@@ -77,12 +77,13 @@ export const getPubs = () => {
  */
 export const getColor = pub => {
   if (pub === "St Georges Tavern") return "#72195A";
-  if (pub === "Willow Walk") return "#6B5CA5";
+  if (pub === "The Willow Walk") return "#6B5CA5";
   if (pub === "Cask Pub & Kitchen") return "#71A9F7";
   if (pub === "Barley Mow") return "#C6D8FF";
   if (pub === "The Jugged Hare") return "#D0DFFF";
   if (pub === "Old Thameside Inn") return "#DAE6FF";
   if (pub === "The World's End") return "#E5EDFF";
+  if (pub === "Marquis Of Westministe") return "#E5EDFF";
 
   console.log(`${pub} is missing a color.`);
 

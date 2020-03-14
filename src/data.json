@@ -38,7 +38,7 @@
           "timestampValue": "2019-12-05T23:25:46Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -592,7 +592,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575674941.000100",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 8.8
@@ -606,7 +606,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575674997.000200",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 18.6
@@ -620,7 +620,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1575675231.000300",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1267,7 +1267,7 @@
           "timestampValue": "2019-12-13T23:18:33Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.65
@@ -1278,7 +1278,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576279167.003000",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1295,7 +1295,7 @@
           "timestampValue": "2019-12-13T23:19:52Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.89
@@ -1309,7 +1309,7 @@
           "timestampValue": "2019-12-13T23:20:57Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1326,7 +1326,7 @@
           "timestampValue": "2019-12-13T23:47:19Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -1337,7 +1337,7 @@
           "timestampValue": "2019-12-13T23:52:49Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1648,7 +1648,7 @@
           "timestampValue": "2019-12-19T22:32:58Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -1656,7 +1656,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576794796.000300",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.89
@@ -1676,7 +1676,7 @@
           "timestampValue": "2019-12-19T22:34:34Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -1687,7 +1687,7 @@
           "timestampValue": "2019-12-19T22:47:40Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1704,7 +1704,7 @@
           "timestampValue": "2019-12-19T22:48:32Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -1715,7 +1715,7 @@
           "timestampValue": "2019-12-19T22:54:36Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -1732,7 +1732,7 @@
           "timestampValue": "2019-12-19T23:39:07Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -2020,7 +2020,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1576885188.000100",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 27.54
@@ -2527,7 +2527,7 @@
           "timestampValue": "2020-01-16T22:30:59Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 20.1
@@ -2541,7 +2541,7 @@
           "timestampValue": "2020-01-16T23:10:34Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 17.97
@@ -2558,7 +2558,7 @@
           "timestampValue": "2020-01-16T23:11:51Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -2874,7 +2874,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579304414.000100",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.6
@@ -2891,7 +2891,7 @@
           "timestampValue": "2020-01-17T23:42:25Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 9.29
@@ -2908,7 +2908,7 @@
           "timestampValue": "2020-01-17T23:49:23Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -3126,7 +3126,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1579907965.000100",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 20.1
@@ -3143,7 +3143,7 @@
           "timestampValue": "2020-01-25T21:51:30Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 13.95
@@ -3381,7 +3381,7 @@
           "timestampValue": "2020-01-31T22:47:25Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.6
@@ -3398,7 +3398,7 @@
           "timestampValue": "2020-01-31T23:00:37Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -3784,7 +3784,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581118233.000100",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 9.24
@@ -3804,7 +3804,7 @@
           "timestampValue": "2020-02-07T23:32:06Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -3815,7 +3815,7 @@
           "timestampValue": "2020-02-07T23:32:41Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 10.85
@@ -3829,7 +3829,7 @@
           "timestampValue": "2020-02-07T23:51:17Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 34
@@ -3840,7 +3840,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581119607.000300",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.25
@@ -4221,7 +4221,7 @@
           "timestampValue": "2020-02-13T23:06:15Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.6
@@ -4235,7 +4235,7 @@
           "timestampValue": "2020-02-13T23:07:06Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.65
@@ -4246,7 +4246,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1581635268.006300",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.89
@@ -4263,7 +4263,7 @@
           "timestampValue": "2020-02-13T23:08:22Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.89
@@ -4280,7 +4280,7 @@
           "timestampValue": "2020-02-13T23:09:16Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -4294,7 +4294,7 @@
           "timestampValue": "2020-02-13T23:32:14Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -4305,7 +4305,7 @@
           "timestampValue": "2020-02-13T23:33:43Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.6
@@ -4658,7 +4658,7 @@
           "timestampValue": "2020-02-14T23:11:00Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -4938,7 +4938,7 @@
           "timestampValue": "2020-02-19T21:57:57Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         }
       }
     },
@@ -4949,7 +4949,7 @@
           "timestampValue": "2020-02-19T21:59:17Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 6.2
@@ -4963,7 +4963,7 @@
           "timestampValue": "2020-02-19T21:59:33Z"
         },
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 4.6
@@ -4974,7 +4974,7 @@
       "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1582149680.002700",
       "fields": {
         "location": {
-          "stringValue": "Willow Walk"
+          "stringValue": "The Willow Walk"
         },
         "amount": {
           "doubleValue": 10.4
@@ -5821,6 +5821,454 @@
         },
         "amount": {
           "doubleValue": 5.55
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1583499171.002000",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-06T12:52:51Z"
+        },
+        "location": {
+          "stringValue": "Marquis Of Westministe"
+        },
+        "amount": {
+          "doubleValue": 6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584120330.001200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T17:25:30Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584120350.001300",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T17:25:50Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.25
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584120697.001400",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.7
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T17:31:37Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584121101.001500",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T17:38:21Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584121497.001600",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T17:44:57Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584121760.001700",
+      "fields": {
+        "amount": {
+          "doubleValue": 11.25
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T17:49:20Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584123358.001800",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T18:15:58Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584123490.001900",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T18:18:10Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584123793.002000",
+      "fields": {
+        "amount": {
+          "doubleValue": 11.25
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T18:23:13Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584124268.002100",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 7.4
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T18:31:08Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584124363.002200",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T18:32:43Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584125984.002300",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T18:59:44Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584126034.002400",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T19:00:34Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584126078.002500",
+      "fields": {
+        "amount": {
+          "doubleValue": 11.25
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T19:01:18Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584126787.002600",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T19:13:07Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584127584.002700",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T19:26:24Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 7.4
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584128161.002800",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T19:36:01Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584128424.002900",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T19:40:24Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.7
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584129003.003000",
+      "fields": {
+        "amount": {
+          "doubleValue": 10.6
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T19:50:03Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584130613.003100",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.05
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T20:16:53Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584131386.003200",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.7
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T20:29:46Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584131619.003300",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.55
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T20:33:39Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584131790.003400",
+      "fields": {
+        "amount": {
+          "doubleValue": 5.7
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T20:36:30Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584133410.003500",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T21:03:30Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 23.7
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584133653.003600",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 11.1
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T21:07:33Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584134033.003700",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 5.7
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T21:13:53Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584136648.003800",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T21:57:28Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 16.15
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584140046.003900",
+      "fields": {
+        "amount": {
+          "doubleValue": 6.2
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T22:54:06Z"
+        },
+        "location": {
+          "stringValue": "The Willow Walk"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584140067.004000",
+      "fields": {
+        "amount": {
+          "doubleValue": 10.85
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T22:54:27Z"
+        },
+        "location": {
+          "stringValue": "The Willow Walk"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584140087.004100",
+      "fields": {
+        "amount": {
+          "doubleValue": 4.65
+        },
+        "datetime": {
+          "timestampValue": "2020-03-13T22:54:47Z"
+        },
+        "location": {
+          "stringValue": "The Willow Walk"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1584141049.004200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-03-13T23:10:49Z"
+        },
+        "location": {
+          "stringValue": "The Willow Walk"
+        },
+        "amount": {
+          "doubleValue": 6.2
         }
       }
     }
