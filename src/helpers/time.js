@@ -9,7 +9,7 @@ export const getWeekStart = weeksAgo => {
   const todaysDay = date.getDay(); // 0 is sunday, 1 monday, etc
 
   date.setDate(
-    date.getDate() - weeksAgo * 7 - (todaysDay === 0 ? -6 : todaysDay - 1)
+    date.getDate() - weeksAgo * 7 - (todaysDay === 0 ? -1 : todaysDay - 1)
   );
 
   date.setHours(0);
