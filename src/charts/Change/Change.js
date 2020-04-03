@@ -6,8 +6,8 @@ import { getWeekTotal, formatPrice } from "../../helpers/stats";
 import "./Change.css";
 
 const Change = () => {
-  const lastWeek = getWeekTotal(1);
-  const weekBefore = getWeekTotal(2);
+  const lastWeek = isNaN(getWeekTotal(1)) ? getWeekTotal(1) : 0;
+  const weekBefore = isNaN(getWeekTotal(2)) ? getWeekTotal(2) : 1;
 
   const difference = ((lastWeek - weekBefore) / weekBefore) * 100;
 
