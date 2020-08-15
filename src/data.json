@@ -6271,6 +6271,48 @@
           "doubleValue": 6.2
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1597422281.005200",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 31.65
+        },
+        "datetime": {
+          "timestampValue": "2020-08-14T17:24:41Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1597437524.006600",
+      "fields": {
+        "amount": {
+          "doubleValue": 207.71
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-14T21:38:44Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1597438270.008900",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-14T21:51:10Z"
+        },
+        "amount": {
+          "doubleValue": 17.2
+        }
+      }
     }
   ]
 }
