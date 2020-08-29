@@ -6313,6 +6313,160 @@
           "doubleValue": 17.2
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598615478.000100",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 6
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T12:51:18Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598623162.001600",
+      "fields": {
+        "amount": {
+          "doubleValue": 22.5
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T14:59:22Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598624685.004100",
+      "fields": {
+        "amount": {
+          "doubleValue": 16.5
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T15:24:45Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598624758.004200",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T15:25:58Z"
+        },
+        "amount": {
+          "doubleValue": 5.2
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598627098.004700",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T16:04:58Z"
+        },
+        "amount": {
+          "doubleValue": 5.2
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598628312.005100",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-08-28T16:25:12Z"
+        },
+        "amount": {
+          "doubleValue": 5.2
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598638901.005400",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T19:21:41Z"
+        },
+        "amount": {
+          "doubleValue": 12
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598638979.005500",
+      "fields": {
+        "location": {
+          "stringValue": "St Georges Tavern"
+        },
+        "amount": {
+          "doubleValue": 16
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T19:22:59Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598640116.005600",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-08-28T19:41:56Z"
+        },
+        "amount": {
+          "doubleValue": 11.5
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598651643.005700",
+      "fields": {
+        "amount": {
+          "doubleValue": 200.2
+        },
+        "datetime": {
+          "timestampValue": "2020-08-28T22:54:03Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1598653659.006200",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-08-28T23:27:39Z"
+        },
+        "amount": {
+          "doubleValue": 17.65
+        },
+        "location": {
+          "stringValue": "The Willow Walk"
+        }
+      }
     }
   ]
 }
