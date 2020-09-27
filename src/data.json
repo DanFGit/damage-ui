@@ -6467,6 +6467,188 @@
           "stringValue": "The Willow Walk"
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1599826233.000700",
+      "fields": {
+        "amount": {
+          "doubleValue": 6
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "datetime": {
+          "timestampValue": "2020-09-11T13:10:33Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1599831485.002300",
+      "fields": {
+        "amount": {
+          "doubleValue": 12.05
+        },
+        "datetime": {
+          "timestampValue": "2020-09-11T14:38:05Z"
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600431058.000100",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-09-18T13:10:58Z"
+        },
+        "amount": {
+          "doubleValue": 6
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600431640.003200",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 6
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T13:20:40Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600436200.005500",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 10.9
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T14:36:40Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600440012.005700",
+      "fields": {
+        "amount": {
+          "doubleValue": 10
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T15:40:12Z"
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600446112.006000",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 16.5
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T17:21:52Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600448940.006600",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T18:09:00Z"
+        },
+        "amount": {
+          "doubleValue": 16.6
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600455564.006700",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-09-18T19:59:24Z"
+        },
+        "amount": {
+          "doubleValue": 16.5
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1600458943.006800",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 16.4
+        },
+        "datetime": {
+          "timestampValue": "2020-09-18T20:55:43Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1601057218.003900",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-09-25T19:06:58Z"
+        },
+        "amount": {
+          "doubleValue": 18.5
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1601061422.004000",
+      "fields": {
+        "datetime": {
+          "timestampValue": "2020-09-25T20:17:02Z"
+        },
+        "amount": {
+          "doubleValue": 24.6
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1601065843.004100",
+      "fields": {
+        "amount": {
+          "doubleValue": 230.85
+        },
+        "datetime": {
+          "timestampValue": "2020-09-25T21:30:43Z"
+        },
+        "location": {
+          "stringValue": "St Georges Tavern"
+        }
+      }
     }
   ]
 }
