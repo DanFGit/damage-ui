@@ -66,7 +66,7 @@ export const getMin = () => {
 export const getPubs = () => {
   const locations = new Set();
 
-  data.documents.forEach(doc => {
+  data.documents.forEach((doc) => {
     locations.add(doc.fields.location.stringValue.replace("&amp;", "&"));
   });
   return [...locations];
@@ -75,22 +75,23 @@ export const getPubs = () => {
 /**
  * Gets the color for a pub
  */
-export const getColor = pub => {
-  if (pub === "St Georges Tavern") return "#72195A";
-  if (pub === "The Willow Walk") return "#6B5CA5";
-  if (pub === "Cask Pub & Kitchen") return "#71A9F7";
-  if (pub === "Barley Mow") return "#C6D8FF";
-  if (pub === "The Jugged Hare") return "#D0DFFF";
-  if (pub === "Old Thameside Inn") return "#DAE6FF";
-  if (pub === "The World's End") return "#E5EDFF";
-  if (pub === "Marquis Of Westministe") return "#E5EDFF";
+export const getColor = (pub) => {
+  if (pub === "St Georges Tavern") return "#30C5FF";
+  if (pub === "The Willow Walk") return "#FFBA49";
+  if (pub === "Cask Pub & Kitchen") return "#EF5B5B";
+  if (pub === "Barley Mow") return "#54457F";
+  if (pub === "The Jugged Hare") return "#EA7AF4";
+  if (pub === "Old Thameside Inn") return "#CFBFF7";
+  if (pub === "The World's End") return "#EF233C";
+  if (pub === "Marquis Of Westministe") return "#D1EFB5";
+  if (pub === "Battersea Brewery") return "#2A2D34";
 
   console.log(`${pub} is missing a color.`);
 
   return "#C6D8FF";
 };
 
-export const getWeekTotal = weeksAgo => {
+export const getWeekTotal = (weeksAgo) => {
   const weekStart = getWeekStart(weeksAgo);
   const weekEnd = getWeekEnd(weeksAgo);
 
