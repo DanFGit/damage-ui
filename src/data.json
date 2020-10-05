@@ -6649,6 +6649,34 @@
           "stringValue": "St Georges Tavern"
         }
       }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1601644383.006500",
+      "fields": {
+        "location": {
+          "stringValue": "Battersea Brewery"
+        },
+        "amount": {
+          "doubleValue": 57.7
+        },
+        "datetime": {
+          "timestampValue": "2020-10-02T14:13:03Z"
+        }
+      }
+    },
+    {
+      "name": "projects/damage-c0b99/databases/(default)/documents/purchases/1601669347.008700",
+      "fields": {
+        "amount": {
+          "doubleValue": 77.2
+        },
+        "datetime": {
+          "timestampValue": "2020-10-02T21:09:07Z"
+        },
+        "location": {
+          "stringValue": "Battersea Brewery"
+        }
+      }
     }
   ]
 }
